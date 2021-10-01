@@ -1,0 +1,3 @@
+[submodule "frontend"]
+path = /Users/seanmodd/Dev/jamstack-final/frontend
+url = https://github.com/seanmodd/jamstack-final-frontend.git
